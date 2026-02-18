@@ -235,5 +235,3 @@ If you encounter any issues:
 ✅ Update user profile
 ✅ Responsive design (try on mobile)
 ✅ Dark theme with animations
-
-Enjoy building with Primetrade.ai! 🚀

@@ -400,5 +400,3 @@ This project demonstrates:
 **Total Files**: 30
 **Technologies Used**: 15+
 **Features Implemented**: 50+
-
-Ready for submission to Primetrade.ai!
