@@ -322,16 +322,7 @@ This project was created for the Primetrade.ai Frontend Developer Intern assignm
 ISC
 
 ## 👨‍💻 Author
-
-Created for Primetrade.ai Frontend Developer Intern Assignment
-
-## 📧 Contact
-
-For questions or feedback, please contact:
-- saami@primetrade.ai
-- nagasai@primetrade.ai
-- chetan@primetrade.ai
-- cc: sonika@primetrade.ai
+Arin Dharmadhikari
 
 ---
 
